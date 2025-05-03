@@ -48,5 +48,5 @@ git clone https://github.com/example/repo.git
 ## 🔌 **Cherry Studio Configuration**
 
 1. Start MCP service before connecting
-   ![img.png](img.png)
-   ![img_1.png](img_1.png)
+   <img src="images/img.png" alt="mcp server设置">
+   <img src="images/img_1.png" alt="mcp server开启">
